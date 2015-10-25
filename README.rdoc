@@ -1,4 +1,6 @@
 == README
+
+See the demo here http://using-api.herokuapp.com/courses/index
 This app utilizes coursera API. I am not responsible for any possible loss when you are using this code. Without warranties
 
 This README would normally document whatever steps are necessary to get the
